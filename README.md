@@ -121,7 +121,7 @@ task-scheduler/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/task-scheduler.git
+git clone https://github.com/Rashmiprakash-56/task-scheduler.git
 cd task-scheduler
 ```
 
